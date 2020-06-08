@@ -1,0 +1,139 @@
+.img-view{
+    width: 99%;
+    height: 1150px;
+    position: absolute;
+    margin-top: -50px;
+    overflow:hidden;
+}
+#title{
+     position: relative;
+     text-align: center;
+     visibility: visible;
+     color: white;
+     padding-top:40px;
+}
+#survey-form{
+    visibility: visible;
+    padding-left:200px;
+    color:white;
+    position:relative;
+    padding-top:10px;
+}
+.input-form{
+    width:68%;
+    height:20px;
+    border:1px solid white;
+    border-radius:5px;
+}
+#survey-form2{
+    visibility: visible;
+    color:white;
+    position:relative;
+    padding-top:10px;
+}
+#survey-form3{
+    visibility: visible;
+    padding-left:100px;
+    color:white;
+    position:relative;
+    padding-top:10px;
+}
+#survey-form4{
+    visibility: visible;
+    padding-left:100px;
+    color:white;
+    position:relative;
+    padding-top:10px;
+}
+#survey-form5{
+    visibility: visible;
+    padding-left:100px;
+    color:white;
+    position:relative;
+    padding-top:10px;
+}
+#survey-form6{
+    visibility: visible;
+    padding-left:100px;
+    color: white-yellow;
+    position:relative;
+    padding-top:10px;
+}
+#survey-form7{
+    visibility: visible;
+    padding-left:400px;
+    color: white;
+    position:relative;
+    padding-top:10px;
+    font-size:17px;
+    width:50%;
+}
+#survey-form8{
+    visibility: visible;
+    padding-left:200px;
+    color: white;
+    position:relative;
+    padding-top:10px;
+}
+.input-form3{
+    width:68%;
+    height:90px;
+}
+.input-form4{
+    width:44%;
+    height:60px;
+    visibility:visible;
+    position:relative;
+    color:white;
+    background:green;
+    margin-top:55px;
+    margin-left:400px;
+}
+@media only screen and (max-width: 768px) {
+    .img-view{
+    width: 100%;
+    height: 1150px;
+    position: absolute;
+    margin-top: -50px;
+    overflow:hidden;
+}
+#title{
+     font-size:10px;
+}
+#survey-form{
+    padding-left:20px;
+}
+.input-form{
+    width:100%;
+}
+#survey-form3{
+    padding-left:10px;
+}
+#survey-form4{
+    padding-left:10px;
+}
+#survey-form5{
+    padding-left:10px;
+    font-size:15px;
+}
+#survey-form6{
+    padding-left:10px;
+    font-size:15px;
+}
+#survey-form7{
+    padding-left:50px;
+    width:75%;
+}
+#survey-form8{
+    margin-left:-180px;
+}
+.input-form3{
+    width:90%;
+    height:40px;
+}
+.input-form4{
+    margin-left:45px;
+    width:85%;
+    margin-top:30px;
+}
+}
